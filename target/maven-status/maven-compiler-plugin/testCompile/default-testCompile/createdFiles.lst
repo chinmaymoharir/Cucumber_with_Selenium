@@ -1,0 +1,9 @@
+Transformation\SalaryCountTransformer.class
+Transformation\EmailTransform.class
+Steps\Hooks.class
+Steps\MyStepdefs.class
+Base\BaseUtils.class
+Steps\MyStepdefs$User.class
+Pages\LoginPage.class
+runner\TestRunner.class
+Steps\Java8Steps.class
